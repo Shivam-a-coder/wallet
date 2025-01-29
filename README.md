@@ -7,7 +7,7 @@
   - transaction-service
   - notification-service
 
-&#9675; **Project Setup**
+&#9679; **Project Setup**
   1. Clone the project on your local machine.
   2. Build the project using Maven.(In VS Code, you can probably do "Maven Reload" to get all the Spring dependencies.)
   3. Open `src/main/resources/application.properties` in each microservice and update:
